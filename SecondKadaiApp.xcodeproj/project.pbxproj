@@ -15,6 +15,7 @@
 		CEBF8E4B25BCE0AE00134352 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEBF8E4925BCE0AE00134352 /* LaunchScreen.storyboard */; };
 		CEBF8E5625BCE0AF00134352 /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBF8E5525BCE0AF00134352 /* SecondKadaiAppTests.swift */; };
 		CEBF8E6125BCE0AF00134352 /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBF8E6025BCE0AF00134352 /* SecondKadaiAppUITests.swift */; };
+		CEBF8E6F25BCE13D00134352 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBF8E6E25BCE13D00134352 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CEBF8E5C25BCE0AF00134352 /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEBF8E6025BCE0AF00134352 /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		CEBF8E6225BCE0AF00134352 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEBF8E6E25BCE13D00134352 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CEBF8E3E25BCE0AD00134352 /* AppDelegate.swift */,
 				CEBF8E4025BCE0AD00134352 /* SceneDelegate.swift */,
 				CEBF8E4225BCE0AD00134352 /* ViewController.swift */,
+				CEBF8E6E25BCE13D00134352 /* ResultViewController.swift */,
 				CEBF8E4425BCE0AD00134352 /* Main.storyboard */,
 				CEBF8E4725BCE0AE00134352 /* Assets.xcassets */,
 				CEBF8E4925BCE0AE00134352 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				CEBF8E4325BCE0AD00134352 /* ViewController.swift in Sources */,
 				CEBF8E3F25BCE0AD00134352 /* AppDelegate.swift in Sources */,
 				CEBF8E4125BCE0AD00134352 /* SceneDelegate.swift in Sources */,
+				CEBF8E6F25BCE13D00134352 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
